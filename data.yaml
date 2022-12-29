@@ -1,1 +1,1 @@
-{names: [apple, banana, orange], nc: 3, train: data/images/train, val: data/images/train}
+{names: [apple, banana, orange], nc: 3, train: ../data/images/train, val: ../data/images/train}
